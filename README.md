@@ -26,7 +26,7 @@ The engine integrates:
 
 ## Sample Workflow  
 
-1.**Trend Research**: Imagetic research that served as the base for the Rule Definition
+1. **Trend Research**: Imagetic research that served as the base for the Rule Definition
 2. **Assortment Strategy Research**: Analyze previous collections from inspiration brands (The Row, Loro Piana)  
 3. **Rule Definition**: Set gender ratios, silhouette priorities, and color palettes  
 4. **Engine Execution**: Python scripts generate the collection plan automatically  
