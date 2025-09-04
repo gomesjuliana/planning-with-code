@@ -40,7 +40,7 @@ The engine integrates:
 
 ## Portfolio & Documentation  
 
-The full methodology, research, and visuals are available in the [planning-with-code]([docs/planning_with_code.pdf](https://docs.google.com/presentation/d/1oNlROlmp_OD2kGRedoHjxyU0QoYdN_w67EoOV1IuM10/edit?usp=sharing)).  
+The full methodology, research, and visuals are available in the [planning-with-code](https://docs.google.com/presentation/d/1oNlROlmp_OD2kGRedoHjxyU0QoYdN_w67EoOV1IuM10/edit?usp=sharing)
 
 
 ## Author  
