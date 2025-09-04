@@ -21,7 +21,7 @@ The engine integrates:
 
 - **Python**: pandas, numpy, random  
 - **Excel**: initial dataset preparation  
-- **Power BI**: final dashboards and KPIs  
+- **Power BI**: final dashboards  
 - **GitHub**: version control and portfolio sharing  
 
 ## Sample Workflow  
