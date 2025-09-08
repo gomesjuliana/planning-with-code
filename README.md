@@ -30,7 +30,7 @@ The engine integrates:
 5. **Visualization**: Power BI dashboards provide visual validation and strategic insights
 
 ## Key Features 
--Strategic Distribution: 65% Feminine / 35% Masculine split with precise category counts
+- Strategic Distribution: 65% Feminine / 35% Masculine split with precise category counts
 - Color System: 50% neutrals, 35% core colors, 15% accents with brand-specific palette
 - Rule Enforcement: Context-aware constraints prevent illogical design combinations
 - Quality Assurance: Automatic validation ensures all design elements are represented
