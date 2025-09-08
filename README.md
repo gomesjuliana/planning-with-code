@@ -1,11 +1,11 @@
 # planning-with-code
-A Python-powered engine that automates fashion assortment planning using rule-based distributions and business logic—bridging creative design with data-driven decision-making.
+A Python-powered engine that automates fashion assortment planning using rule-based distributions and business logic, bridging creative design with data-driven decision-making.
 
 ## Overview
-This project generates a 35-product fashion collection plan inspired by brands like Loro Piana and The Row. Using Python, Excel, and Power BI, it automates design distribution, applies business constraints, and delivers visual dashboards for strategic insights.
+This project generates a 35-product fashion collection plan inspired by the brands Loro Piana and The Row. Using Python, Excel, and Power BI, it automates design distribution, applies business constraints, and delivers visual dashboards for strategic insights.
 
 ## Key Features
-- **Automated Planning**: Balances creativity with business rules (e.g., gender ratios, design constraints).  
+- **Automated Planning**: Balances creativity with business rules.
 - **Rule-Based Engine**: Weighted probability algorithms ensure diversity and accuracy.  
 - **Data Visualization**: Power BI dashboards validate outputs and trends.  
 - **Scalable Framework**: Adaptable to different brands, seasons, and product lines.  
